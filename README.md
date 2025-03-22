@@ -1,2 +1,2 @@
 # Portofolio
-Creative CV
+Resume pribadi
