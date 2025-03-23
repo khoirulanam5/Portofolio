@@ -1,2 +1,2 @@
 # Portofolio
-Resume pribadi
+CV
