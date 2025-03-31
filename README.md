@@ -1,2 +1,2 @@
 # Web Portofolio
-Personal CV
+Creative CV
