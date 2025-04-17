@@ -1,2 +1,2 @@
 # Web Portofolio.
-Resume Pribadi
+CV
