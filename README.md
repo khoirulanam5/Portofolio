@@ -81,5 +81,3 @@ Jika ingin menghubungi pemilik portfolio, gunakan informasi yang tersedia di hal
 Project ini bersifat **open source** atau sesuai lisensi yang Anda tentukan.
 
 ---
-
-Terima kasih! Silakan modifikasi README ini sesuai kebutuhan proyek Anda.
