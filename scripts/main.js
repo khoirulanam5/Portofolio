@@ -3,7 +3,7 @@ const projects = [
   { 
     id: 33, 
     title: 'Aplikasi Rekomendasi Kamar Hotel', 
-    stack: ['CodeIgniter 3', 'MySQL', 'Bootstrap'], 
+    stack: ['CodeIgniter 3', 'MySQL', 'Bootstraps', 'JavaScript'], 
     img: 'images/33.fpgrowth/1.PNG', 
     github: 'https://github.com/khoirulanam5/Hotel-Room-Facility-Recommendation-System-with-Apriori-and-FP-Growth.git', 
     desc: 'Sistem rekomendasi fasilitas kamar hotel menggunakan algoritma Apriori dan FP-Growth untuk menemukan pola asosiasi dari data transaksi tamu secara efisien.', 
@@ -12,7 +12,7 @@ const projects = [
   { 
     id: 32, 
     title: 'Aplikasi Manajemen Kasir', 
-    stack: ['CodeIgniter 3', 'MySQL', 'Bootstrap'], 
+    stack: ['CodeIgniter 3', 'MySQL', 'Bootstraps', 'JavaScript'], 
     img: 'images/32.kasir/8.PNG', 
     github: 'https://github.com/khoirulanam5/kasir.git', 
     desc: 'Aplikasi kasir berbasis web untuk manajemen transaksi penjualan, stok produk, laporan harian, dan pengelolaan data pelanggan secara real-time.', 
@@ -21,7 +21,7 @@ const projects = [
   { 
     id: 31, 
     title: 'Aplikasi Bantuan Alat Pertanian', 
-    stack: ['CodeIgniter 3', 'MySQL', 'Bootstrap'], 
+    stack: ['CodeIgniter 3', 'MySQL', 'Bootstraps', 'JavaScript'], 
     img: 'images/31.sipbap/1.PNG', 
     github: 'https://github.com/khoirulanam5/sipbap.git', 
     desc: 'Sistem informasi pengajuan dan pengelolaan bantuan alat pertanian untuk memfasilitasi proses administrasi antara petani dan dinas terkait.', 
@@ -30,7 +30,7 @@ const projects = [
   { 
     id: 30, 
     title: 'Aplikasi Bimbingan Konseling', 
-    stack: ['Laravel 12', 'MySQL', 'Bootstrap'], 
+    stack: ['Laravel 12', 'MySQL', 'Bootstraps', 'JavaScript'], 
     img: 'images/30.bk/1.PNG', 
     github: 'https://github.com/khoirulanam5/bimbingan-konseling.git', 
     desc: 'Sistem manajemen bimbingan konseling siswa yang memfasilitasi pencatatan sesi konseling, laporan perkembangan, dan komunikasi antara guru BK dan siswa.', 
@@ -39,7 +39,7 @@ const projects = [
   { 
     id: 29, 
     title: 'Aplikasi Berita Acara', 
-    stack: ['CodeIgniter 3', 'MySQL', 'Bootstrap'], 
+    stack: ['CodeIgniter 3', 'MySQL', 'Bootstraps', 'JavaScript'], 
     img: 'images/29.bap/1.PNG', 
     github: 'https://github.com/khoirulanam5/bap-imigrasi.git', 
     desc: 'Sistem pengelolaan berita acara pemeriksaan digital untuk kantor imigrasi, dilengkapi fitur tanda tangan digital dan arsip dokumen.', 
@@ -48,7 +48,7 @@ const projects = [
   { 
     id: 28, 
     title: 'Aplikasi Pelayanan WNA', 
-    stack: ['CodeIgniter 3', 'MySQL', 'Bootstrap'], 
+    stack: ['CodeIgniter 3', 'MySQL', 'Bootstraps', 'JavaScript'], 
     img: 'images/28.pelayanan/1.PNG', 
     github: 'https://github.com/khoirulanam5/pelayanan.git', 
     desc: 'Sistem pelayanan warga negara asing berbasis web untuk mempermudah proses administrasi, pendataan, dan monitoring status permohonan izin.', 
@@ -57,7 +57,7 @@ const projects = [
   { 
     id: 27, 
     title: 'Aplikasi Pengajuan UMKM', 
-    stack: ['PHP', 'MySQL', 'Bootstrap'], 
+    stack: ['PHP', 'MySQL', 'Bootstraps', 'JavaScript'], 
     img: 'images/27.umkm/1.PNG', 
     github: 'https://github.com/khoirulanam5/umkm.git', 
     desc: 'Sistem pengajuan dan verifikasi UMKM online untuk memudahkan proses registrasi, validasi data usaha, dan pelaporan kepada dinas terkait.', 
@@ -66,7 +66,7 @@ const projects = [
   { 
     id: 26, 
     title: 'Aplikasi Warehouse Inventori', 
-    stack: ['Laravel 12', 'MySQL', 'Bootstrap'], 
+    stack: ['Laravel 12', 'MySQL', 'Bootstraps', 'JavaScript'], 
     img: 'images/26.warehouse/1.PNG', 
     github: 'https://github.com/khoirulanam5/warehouse.git', 
     desc: 'Sistem manajemen gudang komprehensif dengan fitur pencatatan stok, penerimaan dan pengeluaran barang, serta laporan inventory secara periodik.', 
@@ -75,7 +75,7 @@ const projects = [
   { 
     id: 25, 
     title: 'Aplikasi Pengadaan Barang', 
-    stack: ['CodeIgniter 3', 'MySQL', 'Bootstrap'], 
+    stack: ['CodeIgniter 3', 'MySQL', 'Bootstraps', 'JavaScript'], 
     img: 'images/25.pengadaan/2.PNG', 
     github: 'https://github.com/khoirulanam5/pengadaan-barang.git', 
     desc: 'Sistem pengadaan barang yang mengotomatisasi proses permintaan, persetujuan, pembelian, dan penerimaan barang dalam satu platform terintegrasi.', 
@@ -84,7 +84,7 @@ const projects = [
   { 
     id: 24, 
     title: 'Aplikasi E-Perpustakaan', 
-    stack: ['CodeIgniter 4', 'MySQL', 'Bootstrap'], 
+    stack: ['CodeIgniter 4', 'MySQL', 'Bootstraps', 'JavaScript'], 
     img: 'images/24.perpus-qr/9.PNG', 
     github: 'https://github.com/khoirulanam5/perpus-qr.git', 
     desc: 'Perpustakaan digital dengan fitur QR code untuk peminjaman buku, pencarian koleksi, manajemen anggota, dan notifikasi pengembalian otomatis.', 
@@ -93,7 +93,7 @@ const projects = [
   { 
     id: 23, 
     title: 'Aplikasi Order Makanan', 
-    stack: ['CodeIgniter 3', 'MySQL', 'Bootstrap'], 
+    stack: ['CodeIgniter 3', 'MySQL', 'Bootstraps', 'JavaScript'], 
     img: 'images/23.ma/1.PNG', 
     github: 'https://github.com/khoirulanam5/menu-ordering.git', 
     desc: 'Sistem pemesanan makanan berbasis web dengan tampilan menu interaktif, keranjang belanja, manajemen meja, dan dapur order real-time.', 
@@ -102,7 +102,7 @@ const projects = [
   { 
     id: 22, 
     title: 'Aplikasi Stok Obat', 
-    stack: ['PHP', 'MySQL', 'Bootstrap'], 
+    stack: ['PHP', 'MySQL', 'Bootstraps', 'JavaScript'], 
     img: 'images/22.stock-obat/2.PNG', 
     github: 'https://github.com/khoirulanam5/stock-obat.git', 
     desc: 'Sistem manajemen stok obat apotek dengan fitur notifikasi stok menipis, expired date monitoring, dan laporan penggunaan obat bulanan.', 
@@ -111,7 +111,7 @@ const projects = [
   { 
     id: 21, 
     title: 'Inventori Toko Ban Motor', 
-    stack: ['CodeIgniter 3', 'MySQL', 'Bootstrap'], 
+    stack: ['CodeIgniter 3', 'MySQL', 'Bootstraps', 'JavaScript'], 
     img: 'images/21.inventori-ban/5.PNG', 
     github: 'https://github.com/khoirulanam5/inventori-toko-ban.git', 
     desc: 'Sistem inventori khusus toko ban motor dengan manajemen stok berdasarkan ukuran, merk, dan tipe ban, serta laporan penjualan harian.', 
@@ -120,7 +120,7 @@ const projects = [
   { 
     id: 20, 
     title: 'Seleksi Siswa Berprestasi', 
-    stack: ['CodeIgniter 3', 'MySQL', 'Bootstrap'], 
+    stack: ['CodeIgniter 3', 'MySQL', 'Bootstraps', 'JavaScript'], 
     img: 'images/20.profile-match/9.PNG', 
     github: 'https://github.com/khoirulanam5/profile-match.git', 
     desc: 'Sistem pendukung keputusan seleksi siswa berprestasi menggunakan metode Profile Matching dengan kriteria akademik dan non-akademik terukur.', 
@@ -129,7 +129,7 @@ const projects = [
   { 
     id: 19, 
     title: 'Aplikasi Rekam Medis', 
-    stack: ['CodeIgniter 3', 'MySQL', 'Bootstrap'], 
+    stack: ['CodeIgniter 3', 'MySQL', 'Bootstraps', 'JavaScript'], 
     img: 'images/19.rm/8.PNG', 
     github: 'https://github.com/khoirulanam5/rekam-medis.git', 
     desc: 'Sistem rekam medis elektronik untuk klinik dan puskesmas dengan fitur riwayat kunjungan, resep digital, dan laporan statistik kesehatan.', 
@@ -138,7 +138,7 @@ const projects = [
   {
     id: 18,
     title: 'Aplikasi Menentukan Siswa Terbaik',
-    stack: ['CodeIgniter 3', 'MySQL', 'Bootstrap'],
+    stack: ['CodeIgniter 3', 'MySQL', 'Bootstraps', 'JavaScript'],
     img: 'images/18.topsis/6.PNG',
     github: 'https://github.com/khoirulanam5/topsis.git',
     desc: 'Sistem pendukung keputusan penentuan siswa terbaik menggunakan metode TOPSIS dengan bobot kriteria yang dapat dikonfigurasi oleh admin.',
@@ -147,7 +147,7 @@ const projects = [
   {
     id: 17,
     title: 'Aplikasi Manajemen Terminal',
-    stack: ['CodeIgniter 3', 'MySQL', 'Bootstrap'],
+    stack: ['CodeIgniter 3', 'MySQL', 'Bootstraps', 'JavaScript'],
     img: 'images/17.terminal/2.PNG',
     github: 'https://github.com/khoirulanam5/manajemen-terminal.git',
     desc: 'Sistem manajemen terminal bus untuk pencatatan kedatangan/keberangkatan, data penumpang, retribusi, dan laporan operasional terminal.',
@@ -156,7 +156,7 @@ const projects = [
   {
     id: 16,
     title: 'Aplikasi Manajemen Catering',
-    stack: ['PHP', 'MySQL', 'Bootstrap'],
+    stack: ['PHP', 'MySQL', 'Bootstraps', 'JavaScript'],
     img: 'images/16.catering/1.PNG',
     github: 'https://github.com/khoirulanam5/manajemen-pemesanan-catering.git',
     desc: 'Sistem pemesanan dan manajemen catering dengan fitur menu planner, jadwal pengiriman, invoice otomatis, dan manajemen bahan baku.',
@@ -165,7 +165,7 @@ const projects = [
   {
     id: 15,
     title: 'Aplikasi Rental Mobil',
-    stack: ['CodeIgniter 3', 'MySQL', 'Bootstrap'],
+    stack: ['CodeIgniter 3', 'MySQL', 'Bootstraps', 'JavaScript'],
     img: 'images/15.rental/4.PNG',
     github: 'https://github.com/khoirulanam5/rental-mobil.git',
     desc: 'Sistem rental mobil lengkap dengan manajemen armada, booking online, kalkulasi biaya otomatis, dan laporan pendapatan periodik.',
@@ -174,7 +174,7 @@ const projects = [
   {
     id: 14,
     title: 'Aplikasi Manajemen Klinik',
-    stack: ['CodeIgniter 3', 'MySQL', 'Bootstrap'],
+    stack: ['CodeIgniter 3', 'MySQL', 'Bootstraps', 'JavaScript'],
     img: 'images/14.siluka/5.PNG',
     github: 'https://github.com/khoirulanam5/siluka.git',
     desc: 'Sistem informasi klinik terintegrasi mencakup pendaftaran pasien, antrian dokter, rekam medis, apotek, dan billing pasien secara digital.',
@@ -183,7 +183,7 @@ const projects = [
   {
     id: 13,
     title: 'Aplikasi Penjualan Aquarium',
-    stack: ['CodeIgniter 3', 'MySQL', 'Bootstrap'],
+    stack: ['CodeIgniter 3', 'MySQL', 'Bootstraps', 'JavaScript'],
     img: 'images/13.aquarium/8.PNG',
     github: 'https://github.com/khoirulanam5/penjualan-aquarium.git',
     desc: 'Toko online aquarium dengan katalog produk, manajemen pesanan, stok ikan dan perlengkapan, serta laporan penjualan terintegrasi.',
@@ -192,7 +192,7 @@ const projects = [
   {
     id: 12,
     title: 'Aplikasi Monitoring Data Stunting',
-    stack: ['CodeIgniter 3', 'MySQL', 'Bootstrap'],
+    stack: ['CodeIgniter 3', 'MySQL', 'Bootstraps', 'JavaScript'],
     img: 'images/12.stunting/9.PNG',
     github: 'https://github.com/khoirulanam5/sistem-monitoring-stunting.git',
     desc: 'Sistem monitoring pertumbuhan balita berbasis web untuk deteksi dini stunting dengan grafik perkembangan, alert risiko, dan laporan posyandu.',
@@ -201,7 +201,7 @@ const projects = [
   {
     id: 11,
     title: 'Aplikasi Inventaris',
-    stack: ['CodeIgniter 3', 'MySQL', 'Bootstrap'],
+    stack: ['CodeIgniter 3', 'MySQL', 'Bootstraps', 'JavaScript'],
     img: 'images/11.inventaris/1.PNG',
     github: 'https://github.com/khoirulanam5/inventaris-barang-non-medis-rs.git',
     desc: 'Sistem inventaris barang non-medis rumah sakit dengan fitur QR code aset, mutasi barang antar departemen, dan laporan kondisi aset.',
@@ -210,7 +210,7 @@ const projects = [
   {
     id: 10,
     title: 'Aplikasi KPI Karyawan',
-    stack: ['CodeIgniter 3', 'MySQL', 'Bootstrap'],
+    stack: ['CodeIgniter 3', 'MySQL', 'Bootstraps', 'JavaScript'],
     img: 'images/10.kpikinerja/10.PNG',
     github: 'https://github.com/khoirulanam5/kpi-kinerja.git',
     desc: 'Sistem evaluasi KPI karyawan dengan indikator kinerja yang dapat dikustomisasi, dashboard performa, dan laporan penilaian per periode.',
@@ -219,7 +219,7 @@ const projects = [
   {
     id: 9,
     title: 'Aplikasi Maintenance Kendaraan',
-    stack: ['CodeIgniter 3', 'MySQL', 'Bootstrap'],
+    stack: ['CodeIgniter 3', 'MySQL', 'Bootstraps', 'JavaScript'],
     img: 'images/9.maintenance/6.PNG',
     github: 'https://github.com/khoirulanam5/Emaintenance.git',
     desc: 'Sistem manajemen perawatan kendaraan operasional dengan jadwal servis, riwayat perbaikan, biaya maintenance, dan alert jadwal rutin.',
@@ -228,7 +228,7 @@ const projects = [
   {
     id: 8,
     title: 'Aplikasi Persuratan',
-    stack: ['CodeIgniter 3', 'MySQL', 'Bootstrap'],
+    stack: ['CodeIgniter 3', 'MySQL', 'Bootstraps', 'JavaScript'],
     img: 'images/8.surat/4.PNG',
     github: 'https://github.com/khoirulanam5/persuratan.git',
     desc: 'Sistem persuratan digital untuk instansi pemerintah dan swasta dengan fitur surat masuk/keluar, disposisi, dan arsip dokumen terstruktur.',
@@ -237,7 +237,7 @@ const projects = [
   {
     id: 7,
     title: 'Aplikasi Presensi',
-    stack: ['CodeIgniter 3', 'MySQL', 'Bootstrap'],
+    stack: ['CodeIgniter 3', 'MySQL', 'Bootstraps', 'JavaScript'],
     img: 'images/7.presensi/1.PNG',
     github: 'https://github.com/khoirulanam5/presensi.git',
     desc: 'Sistem absensi karyawan berbasis web dengan integrasi QR code, rekap kehadiran otomatis, izin/cuti online, dan laporan bulanan.',
@@ -246,7 +246,7 @@ const projects = [
   {
     id: 6,
     title: 'Aplikasi Inventori',
-    stack: ['CodeIgniter 3', 'MySQL', 'Bootstrap'],
+    stack: ['CodeIgniter 3', 'MySQL', 'Bootstraps', 'JavaScript'],
     img: 'images/6.inventori/2.PNG',
     github: 'https://github.com/khoirulanam5/inventori.git',
     desc: 'Sistem manajemen inventori barang umum dengan pencatatan keluar-masuk, stok minimum alert, laporan persediaan, dan manajemen supplier.',
@@ -255,7 +255,7 @@ const projects = [
   {
     id: 5,
     title: 'Aplikasi Penjualan Hijab',
-    stack: ['CodeIgniter 3', 'MySQL', 'Bootstrap'],
+    stack: ['CodeIgniter 3', 'MySQL', 'Bootstraps', 'JavaScript'],
     img: 'images/5.tasbiha/1.PNG',
     github: 'https://github.com/khoirulanam5/penjualan_hijab.git',
     desc: 'Toko online busana muslim dengan katalog produk, keranjang belanja, manajemen pesanan dan pengiriman, serta laporan penjualan.',
@@ -264,7 +264,7 @@ const projects = [
   {
     id: 4,
     title: 'Aplikasi Penjualan Sparepart',
-    stack: ['CodeIgniter 3', 'MySQL', 'Bootstrap'],
+    stack: ['CodeIgniter 3', 'MySQL', 'Bootstraps', 'JavaScript'],
     img: 'images/4.sparepart/5.PNG',
     github: 'https://github.com/khoirulanam5/penjualan_sparepart.git',
     desc: 'Sistem penjualan sparepart kendaraan dengan manajemen stok per kategori, pencarian cepat, transaksi kasir, dan laporan stok harian.',
@@ -273,7 +273,7 @@ const projects = [
   {
     id: 3,
     title: 'Inventori Bahan Baku Roti',
-    stack: ['PHP', 'MySQL', 'Bootstrap'],
+    stack: ['PHP', 'MySQL', 'Bootstraps', 'JavaScript'],
     img: 'images/3.roti/1.PNG',
     github: 'https://github.com/khoirulanam5/inventori-bahan-roti-fifo.git',
     desc: 'Sistem inventori bahan baku roti dengan metode FIFO untuk memastikan bahan terlama digunakan lebih dulu, dilengkapi alert kadaluarsa.',
@@ -282,7 +282,7 @@ const projects = [
   {
     id: 2,
     title: 'Aplikasi E-Tiket & Penyewaan Bus',
-    stack: ['CodeIgniter 3', 'MySQL', 'Bootstrap'],
+    stack: ['CodeIgniter 3', 'MySQL', 'Bootstraps', 'JavaScript'],
     img: 'images/2.bus/6.PNG',
     github: 'https://github.com/khoirulanam5/E-Tiket.git',
     desc: 'Platform pemesanan tiket dan penyewaan bus online dengan fitur pemilihan kursi interaktif, pembayaran digital, dan manajemen armada.',
@@ -291,7 +291,7 @@ const projects = [
   {
     id: 1,
     title: 'Aplikasi Pengajuan Cuti Pegawai',
-    stack: ['PHP', 'MySQL', 'Bootstrap'],
+    stack: ['PHP', 'MySQL', 'Bootstraps', 'JavaScript'],
     img: 'images/1.cuti/1.PNG',
     github: 'https://github.com/khoirulanam5/Sistem-Pengajuan-Cuti-Pegawai-Berbasis-Web.git',
     desc: 'Sistem pengajuan cuti pegawai digital dengan alur persetujuan multi-level, kalender cuti tim, saldo cuti otomatis, dan notifikasi status.',
